@@ -1,2 +1,2 @@
 # algorithms
-Typescript realization of basic algorithms
+My realization of basic algorithms
